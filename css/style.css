@@ -9,7 +9,7 @@
 body {
 
     font-size: 16px;
-    background-image: url(/practica-5/images/pattern-background-desktop.svg);
+    background-image: url(/tareas/practica-5/images/pattern-background-desktop.svg);
     background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
     font-family: 'Red Hat Display', sans-serif;
@@ -78,6 +78,7 @@ article{
     display: inline-block;
     margin: 30px 120px;
     position: absolute;
+    cursor: pointer;
 }
 #button-1{
     width: 60%;
@@ -87,6 +88,7 @@ article{
     color: white;
     border-radius: 10px;
     border: 0;
+    cursor: pointer;
 }
 #button-2{
     width: 60%;
@@ -96,4 +98,5 @@ article{
     border: 0;
     color: hsl(223, 47%, 23%);
     border-radius: 10px;
+    cursor: pointer;
 }
